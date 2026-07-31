@@ -146,7 +146,17 @@ const text=document.getElementById("text");
 
 const credits=document.getElementById("credits");
 
+// MOBILE
 
+const mobileCard = document.getElementById("mobileCard");
+const mobileImage = document.getElementById("mobileImage");
+
+const mobileTitle = document.getElementById("mobileTitle");
+const mobileNarrative = document.getElementById("mobileNarrative");
+const mobileText = document.getElementById("mobileText");
+const mobileCredits = document.getElementById("mobileCredits");
+
+const mobileArchiveGrid = document.getElementById("mobileArchiveGrid");
 
 
 
@@ -172,8 +182,42 @@ cardImage.src=currentCard.image;
 
 
 randomCard();
+cardImage.onclick = function(){
+
+    title.innerHTML = currentCard.title || "";
+    narrative.innerHTML = currentCard.narrative || "";
+    text.innerHTML = currentCard.text || "";
+
+    if(currentCard.credits){
+        credits.innerHTML = currentCard.credits;
+    } else {
+        credits.innerHTML = "";
+    }
+
+};
 
 
+
+function updateMobileCard(card){
+
+    mobileImage.src = card.image || "";
+
+    mobileTitle.innerHTML = card.title || "";
+
+    mobileNarrative.innerHTML = card.narrative || "";
+
+    mobileText.innerHTML = card.text || "";
+
+    if(card.credits){
+        mobileCredits.innerHTML = card.credits;
+    } else {
+        mobileCredits.innerHTML = "";
+    }
+
+}
+
+
+updateMobileCard(currentCard);
 
 
 
@@ -224,6 +268,8 @@ if(index !== 1){
 img.onclick=function(){
 
     currentCard=card;
+
+    updateMobileCard(currentCard);
 
     cardImage.style.display = "block";
     cardImage.src=card.image;
@@ -317,6 +363,8 @@ rightLabel.onclick = function(){
 
     currentCard = cards.find(card => card.title === "ABOUT");
 
+    updateMobileCard(currentCard);
+
     archiveGrid.style.display = "none";
     singleCard.style.display = "flex";
 
@@ -336,4 +384,104 @@ rightLabel.onclick = function(){
 };
 
 
+// MOBILE FLIP
 
+if(mobileCard){
+
+    mobileCard.onclick = function(){
+
+        mobileCard.classList.toggle("flipped");
+
+    };
+
+}
+
+
+// MOBILE MENU
+
+
+const mobileMenuButton = document.getElementById("mobileMenuButton");
+
+const mobileMenu = document.getElementById("mobileMenu");
+
+
+mobileMenuButton.onclick = function(){
+
+    mobileMenu.classList.toggle("open");
+
+};
+
+
+
+// RELOAD / SHUFFLE
+
+const mobileShuffle = document.getElementById("mobileShuffle");
+
+
+mobileShuffle.onclick = function(){
+
+    location.reload();
+
+};
+
+
+// MOBILE MENU LINKS
+
+const mobileArchive = document.getElementById("mobileArchive");
+const mobileAbout = document.getElementById("mobileAbout");
+
+
+// archive
+
+mobileArchive.onclick = function(){
+
+    mobileMenu.classList.remove("open");
+
+    mobileCard.style.display="none";
+
+    mobileArchiveGrid.style.display="grid";
+
+
+    mobileArchiveGrid.innerHTML="";
+
+
+    cards.forEach(card=>{
+
+        let img=document.createElement("img");
+
+        img.src=card.image;
+
+        img.onclick=function(){
+
+            currentCard=card;
+
+            updateMobileCard(currentCard);
+
+            mobileArchiveGrid.style.display="none";
+
+            mobileCard.style.display="block";
+
+        };
+
+
+        mobileArchiveGrid.appendChild(img);
+
+    });
+
+};
+
+
+
+// about
+
+mobileAbout.onclick = function(){
+
+    mobileMenu.classList.remove("open");
+
+    currentCard = cards.find(card => card.title === "ABOUT");
+
+    updateMobileCard(currentCard);
+
+    mobileCard.classList.add("flipped");
+
+};

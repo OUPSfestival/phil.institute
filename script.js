@@ -105,13 +105,13 @@ text:""
 {
 title:"ABOUT",
 narrative:"An Institute for Tutut by Manuel Phil. Bischof",
-text:`An Institute for Tutut is a fictional, yet somehow real, project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.
+text:`An Institute for Tutut is a fictional, yet somehow real, project inspired by the world of Tarot and the wonder of Aby Warburg.
 
 Over the years, I have made objects that touched something in me. Explaining exactly what that is has always been difficult. They often appeared before I understood why they mattered.
 
-Over time, each object and each card has gathered its own stories, memories, and associations. This archive is collectiong and sharing those connections.
+Each object and each card has gathered its own stories, memories, and associations. This archive is collectiong and sharing those connections.
 
-I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.`,
+I invite you to explore them, follow your own associations, and let them speak to you in your own way.`,
 credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">social media</a>`
 },
 

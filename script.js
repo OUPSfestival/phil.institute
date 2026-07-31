@@ -81,7 +81,10 @@ You will fly.
 Wherever you want to fly.
 
 And please, don’t be afraid to cry.
-    `
+    `,
+    
+    credits:"object by Manuel Bischof"
+
 },
 
 
@@ -99,7 +102,21 @@ text:""
 },
 
 
+{
+title:"ABOUT",
+narrative:"An Institute for Tutut by Manuel Phil. Bischof",
+text:`An Institute for Tutut is a fictional, yet somehow real, project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.
+
+Over the years, I have made objects that touched something in me. Explaining exactly what that is has always been difficult. They often appeared before I understood why they mattered.
+
+As a human being, I keep making meaning from the things I encounter and create. Over time, each object and each card has gathered its own stories, memories, and associations. This archive is my way of holding those connections together.
+
+I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.`,
+credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">social media</a>`
+},
+
 ];
+
 
 
 
@@ -126,6 +143,8 @@ const title=document.getElementById("title");
 const narrative=document.getElementById("narrative");
 
 const text=document.getElementById("text");
+
+const credits=document.getElementById("credits");
 
 
 
@@ -206,19 +225,23 @@ img.onclick=function(){
 
     currentCard=card;
 
+    cardImage.style.display = "block";
     cardImage.src=card.image;
 
     archiveGrid.style.display="none";
-
     singleCard.style.display="flex";
 
     cardImage.classList.add("selected");
 
     title.innerHTML=card.title;
-
     narrative.innerHTML=card.narrative;
-
     text.innerHTML=card.text;
+
+    if (card.credits) {
+    credits.innerHTML = card.credits;
+    } else {
+    credits.innerHTML = "";
+    }
 
 };
 
@@ -285,6 +308,30 @@ leftLabel.onclick = function(){
     setTimeout(() => flash.style.opacity = "0.7", 180);
 
     setTimeout(() => flash.style.opacity = "0", 220);
+
+};
+
+const rightLabel = document.getElementById("rightLabel");
+
+rightLabel.onclick = function(){
+
+    currentCard = cards.find(card => card.title === "ABOUT");
+
+    archiveGrid.style.display = "none";
+    singleCard.style.display = "flex";
+
+    // hide image area
+    cardImage.style.display = "none";
+
+    title.innerHTML = currentCard.title;
+    narrative.innerHTML = currentCard.narrative;
+    text.innerHTML = currentCard.text;
+
+    if (currentCard.credits) {
+    credits.innerHTML = currentCard.credits;
+    } else {
+    credits.innerHTML = "";
+    }
 
 };
 

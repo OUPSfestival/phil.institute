@@ -17,13 +17,13 @@
 
 body {
 
-    background-image: url("images/background.jpg");
+    background-image: url("images/background.j");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
 
-    color: #eeeeee;
+    color: #b9a8a0;
 
     font-family: "IBM Plex Sans", sans-serif;
 

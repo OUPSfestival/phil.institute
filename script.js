@@ -3,7 +3,7 @@ const cards = [
 
 {
 image:"images/Card_01.png",
-title:"",
+title:"OBJECT 01",
 narrative:"",
 text:"",   
 credits:""
@@ -12,7 +12,7 @@ credits:""
 
 {
 image:"images/Card_02.png",
-title:"",
+title:"OBJECT 02",
 narrative:"",
 text:"",   
 credits:""
@@ -21,7 +21,7 @@ credits:""
 
 {
 image:"images/Card_03.png",
-title:"",
+title:"OBJECT 03",
 narrative:"",
 text:"",   
 credits:""
@@ -30,7 +30,7 @@ credits:""
 
 {
 image:"images/Card_04.png",
-title:"",
+title:"OBJECT 04",
 narrative:"",
 text:"",   
 credits:""
@@ -39,7 +39,7 @@ credits:""
 
 {
 image:"images/Card_05.png",
-title:"",
+title:"OBJECT 05",
 narrative:"",
 text:"",   
 credits:""
@@ -48,7 +48,7 @@ credits:""
 
 {
 image:"images/Card_06.png",
-title:"",
+title:"OBJECT 06",
 narrative:"",
 text:"",   
 credits:""
@@ -56,7 +56,7 @@ credits:""
 
 {
 image:"images/Card_07.png",
-title:"",
+title:"OBJECT 07",
 narrative:"",
 text:"",   
 credits:""
@@ -65,7 +65,7 @@ credits:""
 
 {
 image:"images/Card_08.png",
-title:"",
+title:"OBJECT 08",
 narrative:"",
 text:"",   
 credits:""
@@ -74,7 +74,7 @@ credits:""
 
 {
 image:"images/Card_09.png",
-title:"",
+title:"OBJECT 09",
 narrative:"",
 text:"",   
 credits:""
@@ -83,7 +83,7 @@ credits:""
 
 {
 image:"images/Card_10.png",
-title:"",
+title:"OBJECT 10",
 narrative:"",
 text:"",   
 credits:""
@@ -92,7 +92,7 @@ credits:""
 
 {
 image:"images/Card_11.png",
-title:"",
+title:"OBJECT 11",
 narrative:"",
 text:"",   
 credits:""
@@ -101,7 +101,7 @@ credits:""
 
 {
 image:"images/Card_12.png",
-title:"",
+title:"OBJECT 12",
 narrative:"",
 text:"",   
 credits:""
@@ -110,7 +110,7 @@ credits:""
 
 {
 image:"images/Card_13.png",
-title:"",
+title:"OBJECT 13",
 narrative:"",
 text:"",   
 credits:""
@@ -119,7 +119,7 @@ credits:""
 
 {
 image:"images/Card_14.png",
-title:"",
+title:"OBJECT 14",
 narrative:"",
 text:"",   
 credits:""
@@ -128,7 +128,7 @@ credits:""
 
 {
 image:"images/Card_15.png",
-title:"",
+title:"OBJECT 15",
 narrative:"",
 text:"",   
 credits:""
@@ -146,7 +146,7 @@ credits:""
 
 {
 image:"images/Card_17.png",
-title:"",
+title:"OBJECT 17",
 narrative:"",
 text:"",   
 credits:""
@@ -155,7 +155,7 @@ credits:""
 
 {
 image:"images/Card_18.png",
-title:"",
+title:"OBJECT 18",
 narrative:"",
 text:"",   
 credits:""
@@ -173,7 +173,7 @@ credits:""
 
 {
 image:"images/Card_20.png",
-title:"",
+title:"OBJECT 20",
 narrative:"",
 text:"",   
 credits:""
@@ -182,7 +182,7 @@ credits:""
 
 {
 image:"images/Card_21.png",
-title:"",
+title:"OBJECT 21",
 narrative:"",
 text:"",   
 credits:""
@@ -191,7 +191,7 @@ credits:""
 
 {
 image:"images/Card_22.png",
-title:"",
+title:"SUBJECT 22",
 narrative:"",
 text:"",   
 credits:""
@@ -200,7 +200,7 @@ credits:""
 
 {
 image:"images/Card_23.png",
-title:"",
+title:"OBJECT 23",
 narrative:"",
 text:"",   
 credits:""
@@ -209,16 +209,24 @@ credits:""
 
 {
 image:"images/Card_24.png",
-title:"",
-narrative:"",
-text:"",   
+title:"OBJECT 24",
+narrative:"The Power is here, even if you don't feel it",
+text:`What if you feel silenced and empty, without any power?
+This Queen is silenced, but not powerless. Her body isn't really visible, but her foundation is wide.
+She can reach many energizing sources.
+Her mind is sharp.
+She has a dangerous scorpion tail, it is better not to mess with her.
+
+Nobody can see her sword because she isn't holding it. The sword has an invisible, flexible bond and can be reached at any time.
+
+The feeling of weakness isn't a lack of power.`,   
 credits:""
 },
 
 
 {
 image:"images/Card_25.png",
-title:"",
+title:"OBJECT 25",
 narrative:"",
 text:"",   
 credits:""
@@ -227,7 +235,7 @@ credits:""
 
 {
 image:"images/Card_26.png",
-title:"",
+title:"OBJECT 26",
 narrative:"",
 text:"",   
 credits:""
@@ -254,7 +262,7 @@ credits:""
 
 {
 image:"images/Card_29.png",
-title:"",
+title:"OBJECT 29",
 narrative:"",
 text:"",   
 credits:""
@@ -282,13 +290,13 @@ Wherever you want to fly.
 And please, don’t be afraid to cry.
     `,
     
-credits:"collection item / object by Manuel Bischof"
+credits:""
 },
 
 
 {
 image:"images/Card_31.png",
-title:"",
+title:"OBJECT 31",
 narrative:"",
 text:"",   
 credits:""
@@ -297,7 +305,7 @@ credits:""
 
 {
 image:"images/Card_32.png",
-title:"",
+title:"OBJECT 32",
 narrative:"",
 text:"",   
 credits:""
@@ -306,7 +314,7 @@ credits:""
 
 {
 image:"images/Card_33.png",
-title:"",
+title:"OBJECT 33",
 narrative:"",
 text:"",   
 credits:""
@@ -315,7 +323,7 @@ credits:""
 
 {
 image:"images/Card_34.png",
-title:"",
+title:"OBJECT 34",
 narrative:"",
 text:"",   
 credits:""
@@ -324,7 +332,7 @@ credits:""
 
 {
 image:"images/Card_35.png",
-title:"",
+title:"OBJECT 35",
 narrative:"",
 text:"",   
 credits:""
@@ -333,7 +341,7 @@ credits:""
 
 {
 image:"images/Card_36.png",
-title:"",
+title:"OBJECT 36",
 narrative:"",
 text:"",   
 credits:""
@@ -342,14 +350,25 @@ credits:""
 
 
 {
-title:"ARCHIVE NOTES",
-narrative:"An Institute for Tutut by Manuel Phil. Bischof",
-text:`An Institute for Tutut is a fictional, yet somehow real, project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.
+title:"phil.institute",
+narrative:"",
+
+text:`
+→ Observe where the card has landed.
+
+→ See which direction the card is looking.
+
+→ How is the relation from the Card to the Image?
+
+→ Click on the card, read an interpretation.
+
+
+
+
+This project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.
 
 Over the years, I have made objects that touched something in me. Explaining exactly what that is has always been difficult. They often appeared before I understood why they mattered.
-
 As a human being, I keep making meaning from the things I encounter and create. Over time, each object and each card has gathered its own stories, memories, and associations. This archive is my way of holding those connections together.
-
 I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.`,
 credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">social media</a>`
 },
@@ -363,6 +382,9 @@ credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">soci
 
 let currentCard;
 
+let infoOpen = false;
+let archiveOpen = false;
+let descriptionOpen = false;
 
 
 const cardImage=document.getElementById("cardImage");
@@ -370,8 +392,6 @@ const cardImage=document.getElementById("cardImage");
 const singleCard=document.getElementById("singleCard");
 
 const archiveGrid=document.getElementById("archiveGrid");
-
-const archiveButton=document.getElementById("archiveButton");
 
 const left = document.getElementById("left");
 
@@ -384,6 +404,12 @@ const narrative=document.getElementById("narrative");
 const text=document.getElementById("text");
 
 const credits=document.getElementById("credits");
+
+const archiveLine = document.getElementById("archiveLine");
+
+const info = document.getElementById("info");
+
+const archiveLink = document.getElementById("archiveLink");
 
 // MOBILE
 
@@ -408,13 +434,30 @@ const mobileArchiveGrid = document.getElementById("mobileArchiveGrid");
 function randomCard(){
 
 
-let number=Math.floor(Math.random()*cards.length);
+    let oracleChoice = Oracle.read(cards);
 
 
-currentCard=cards[number];
+    currentCard = cards[oracleChoice];
 
 
-cardImage.src=currentCard.image;
+    cardImage.src = currentCard.image;
+
+
+    let x = Math.random() * 60 + 20;
+    let y = Math.random() * 50 + 25;
+
+    let rotation = Math.random() * 360;
+
+    let scale = Math.random() * 0.25 + 0.9;
+
+
+
+    cardImage.style.left = x + "%";
+    cardImage.style.top = y + "%";
+
+
+    cardImage.style.transform =
+    `translate(-50%, -50%) rotate(${rotation}deg) scale(${scale})`;
 
 
 }
@@ -422,6 +465,9 @@ cardImage.src=currentCard.image;
 
 randomCard();
 cardImage.onclick = function(){
+
+    showArchiveLine();
+
 
     title.innerHTML = currentCard.title || "";
     narrative.innerHTML = currentCard.narrative || "";
@@ -455,6 +501,18 @@ function updateMobileCard(card){
 
 }
 
+function showArchiveLine(){
+    archiveLine.style.display = "block";
+}
+
+
+function hideArchiveLine(){
+    archiveLine.style.display = "none";
+}
+
+
+
+
 
 updateMobileCard(currentCard);
 
@@ -486,55 +544,92 @@ archiveCards.splice(4, 0, currentCard);
 
 archiveCards.forEach((card, index)=>{
 
-if (!card.image) return;
+    let img=document.createElement("img");
 
-let img=document.createElement("img");
-
-
-img.src=card.image;
+    img.className="archiveImage";
 
 
-img.className="archiveImage";
+    // RANDOM EMPTY SPACES (30%)
 
-if(index !== 1){
+    if(Math.random() < 0.3){
 
-     img.style.visibility="hidden";
+        img.style.visibility="hidden";
 
-}
+        archiveGrid.appendChild(img);
+
+        return;
+
+    }
 
 
+    img.src=card.image;
 
 
-img.onclick=function(){
+   img.onclick=function(){
 
-    currentCard=card;
+    currentCard = card;
 
-    updateMobileCard(currentCard);
+    archiveGrid.style.display = "none";
+    singleCard.style.display = "flex";
 
     cardImage.style.display = "block";
-    cardImage.src=card.image;
 
-    archiveGrid.style.display="none";
-    singleCard.style.display="flex";
+    cardImage.src = card.image;
 
-    cardImage.classList.add("selected");
 
-    title.innerHTML=card.title;
-    narrative.innerHTML=card.narrative;
-    text.innerHTML=card.text;
+    // random placement
+    let x = Math.random() * 80 + 10;
+    let y = Math.random() * 70 + 10;
+    let rotation = Math.random() * 360;
 
-    if (card.credits) {
-    credits.innerHTML = card.credits;
+
+    cardImage.style.left = x + "%";
+    cardImage.style.top = y + "%";
+
+    cardImage.style.transform =
+        `translate(-50%, -50%) rotate(${rotation}deg)`;
+
+
+    cardImage.classList.remove("firstCard");
+
+
+    // hide text first
+    right.style.display = "none";
+
+    hideArchiveLine();
+
+
+    // second click on card opens text
+  let descriptionOpen = false;
+
+
+cardImage.onclick = function () {
+
+    if (right.style.display === "flex") {
+
+        // hide text
+        right.style.display = "none";
+        hideArchiveLine();
+
     } else {
-    credits.innerHTML = "";
+
+        // show text
+        right.style.display = "flex";
+        showArchiveLine();
+
+        title.innerHTML = currentCard.title || "";
+        narrative.innerHTML = currentCard.narrative || "";
+        text.innerHTML = currentCard.text || "";
+        credits.innerHTML = currentCard.credits || "";
+
     }
 
 };
 
+};
 
 
-archiveGrid.appendChild(img);
-
+    archiveGrid.appendChild(img);
 
 
 });
@@ -548,80 +643,117 @@ archiveGrid.appendChild(img);
 // OPEN ARCHIVE
 
 
-archiveButton.onclick=function(){
 
-    singleCard.style.display = "none";
-    archiveGrid.style.display="grid";
+info.style.opacity = "1";
 
 
-    document.querySelectorAll(".archiveImage").forEach(img=>{
+info.onclick = function(){
 
-        img.style.visibility="visible";
+    if(infoOpen){
 
-    });
+        // close information
 
-
-    const secondRowCard = document.querySelectorAll(".archiveImage")[3];
-
-    const target =
-        secondRowCard.offsetTop - 200;
-
-    left.scrollTop = target;
+        hideArchiveLine();
 
 
+        right.style.display = "none";
+
+        cardImage.style.display = "block";
+
+        info.classList.remove("active");
+
+        infoOpen = false;
 
 
-};
-
-setTimeout(function() {
-    document.getElementById("leftLabel").classList.add("show");
-}, 10000);
-
-
-const flash = document.getElementById("flash");
-const leftLabel = document.getElementById("leftLabel");
-
-leftLabel.onclick = function(){
-
-    flash.style.opacity = "0.7";
-
-    setTimeout(() => flash.style.opacity = "0", 40);
-
-    setTimeout(() => flash.style.opacity = "0.7", 90);
-
-    setTimeout(() => flash.style.opacity = "0", 130);
-
-    setTimeout(() => flash.style.opacity = "0.7", 180);
-
-    setTimeout(() => flash.style.opacity = "0", 220);
-
-};
-
-const rightLabel = document.getElementById("rightLabel");
-
-rightLabel.onclick = function(){
-
-    currentCard = cards.find(card => card.title === "ABOUT");
-
-    updateMobileCard(currentCard);
-
-    archiveGrid.style.display = "none";
-    singleCard.style.display = "flex";
-
-    // hide image area
-    cardImage.style.display = "none";
-
-    title.innerHTML = currentCard.title;
-    narrative.innerHTML = currentCard.narrative;
-    text.innerHTML = currentCard.text;
-
-    if (currentCard.credits) {
-    credits.innerHTML = currentCard.credits;
     } else {
-    credits.innerHTML = "";
+
+
+        // open information
+
+        showArchiveLine();
+
+        currentCard = cards.find(card => card.title === "phil.institute");
+
+
+        archiveGrid.style.display = "none";
+
+        singleCard.style.display = "flex";
+
+        right.style.display = "flex";
+
+
+        cardImage.style.display = "none";
+
+
+        title.innerHTML = currentCard.title;
+
+        narrative.innerHTML = currentCard.narrative;
+
+        text.innerHTML = currentCard.text;
+
+        credits.innerHTML = currentCard.credits || "";
+
+
+        info.classList.add("active");
+
+        infoOpen = true;
+
     }
 
 };
+
+
+
+
+
+
+
+archiveLink.onclick = function(){
+
+    if(archiveOpen){
+
+        // close archive
+
+        archiveGrid.style.display = "none";
+
+        archiveLink.classList.remove("active");
+
+        archiveOpen = false;
+
+
+    } else {
+
+
+        // open archive
+
+        info.classList.remove("active");
+
+        singleCard.style.display = "none";
+
+        archiveGrid.style.display = "grid";
+
+        hideArchiveLine();
+
+        right.style.display = "none";
+
+
+
+        document.querySelectorAll(".archiveImage").forEach(img => {
+
+            img.style.visibility = "visible";
+
+        });
+
+
+        archiveLink.classList.add("active");
+
+        archiveOpen = true;
+
+    }
+
+};
+
+
 
 
 // MOBILE FLIP

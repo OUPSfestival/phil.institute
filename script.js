@@ -2,69 +2,268 @@ const cards = [
 
 
 {
-image:"images/Card01.png",
+image:"images/Card_01.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-image:"images/Card02.png",
+image:"images/Card_02.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-image:"images/Card03.png",
+image:"images/Card_03.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-image:"images/Card04.png",
+image:"images/Card_04.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-image:"images/Card05.png",
+image:"images/Card_05.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-image:"images/Card06.png",
+image:"images/Card_06.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 {
-image:"images/Card07.png",
+image:"images/Card_07.png",
 title:"",
-text:""
-},
-
-
-{
-image:"images/Card08.png",
-title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-image:"images/Card09.png",
+image:"images/Card_08.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
+
 {
-    image:"images/Card10.png",
-    title:"BROKEN WINGS",
+image:"images/Card_09.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_10.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_11.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_12.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_13.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_14.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_15.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_16.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_17.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_18.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_19.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_20.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_21.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_22.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_23.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_24.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_25.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_26.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_27.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_28.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_29.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_30.png",
+    title:"OBJECT 30",
     narrative:"I will fly anyway, whatever you will say.",
     text:`
    If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
@@ -83,35 +282,75 @@ Wherever you want to fly.
 And please, don’t be afraid to cry.
     `,
     
-    credits:"object by Manuel Bischof"
-
+credits:"collection item / object by Manuel Bischof"
 },
 
 
 {
-image:"images/Card11.png",
+image:"images/Card_31.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-image:"images/Card12.png",
+image:"images/Card_32.png",
 title:"",
-text:""
+narrative:"",
+text:"",   
+credits:""
 },
 
 
 {
-title:"ABOUT",
+image:"images/Card_33.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_34.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_35.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+{
+image:"images/Card_36.png",
+title:"",
+narrative:"",
+text:"",   
+credits:""
+},
+
+
+
+{
+title:"ARCHIVE NOTES",
 narrative:"An Institute for Tutut by Manuel Phil. Bischof",
-text:`An Institute for Tutut is a fictional, yet somehow real, project inspired by the world of Tarot and the wonder of Aby Warburg.
+text:`An Institute for Tutut is a fictional, yet somehow real, project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.
 
 Over the years, I have made objects that touched something in me. Explaining exactly what that is has always been difficult. They often appeared before I understood why they mattered.
 
-Each object and each card has gathered its own stories, memories, and associations. This archive is collectiong and sharing those connections.
+As a human being, I keep making meaning from the things I encounter and create. Over time, each object and each card has gathered its own stories, memories, and associations. This archive is my way of holding those connections together.
 
-I invite you to explore them, follow your own associations, and let them speak to you in your own way.`,
+I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.`,
 credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">social media</a>`
 },
 
@@ -247,6 +486,7 @@ archiveCards.splice(4, 0, currentCard);
 
 archiveCards.forEach((card, index)=>{
 
+if (!card.image) return;
 
 let img=document.createElement("img");
 

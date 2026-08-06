@@ -17,12 +17,6 @@
 
 body {
 
-    background-image: url("images/background.j");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-
     color: #b8a197;
 
     font-family: "IBM Plex Sans", sans-serif;

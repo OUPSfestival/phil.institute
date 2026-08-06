@@ -9,23 +9,29 @@
 }
 
 ::selection {
-    background: #b8a197;
-    color: #b8a197;
+    background: #222222;
+    color: #ffffff;
 }
 
 
 
 body {
 
-    color: #b8a197;
 
-    font-family: "IBM Plex Sans", sans-serif;
+
+    background: #d6c2ab;
+
+    font-family: "Inter", sans-serif;
+    color: #23354d;
 
     font-weight: 300;
 
     overflow: hidden;
 
 }
+
+
+
 
 
 
@@ -99,6 +105,17 @@ body {
     object-fit:contain;
 
 }
+.archiveImage:nth-child(3n) {
+    transform: scale(0.92);
+}
+
+.archiveImage:nth-child(5n) {
+    transform: scale(1.03);
+}
+
+.archiveImage:nth-child(7n) {
+    transform: scale(0.96) rotate(-0.5deg);
+}
 
 
 
@@ -146,8 +163,8 @@ body {
 
 #cardImage.selected {
 
-    width:90%;
-    height:90%;
+    width:70%;
+    height:70%;
 
     transform:translateY(0px);
         padding-left:140px;
@@ -183,7 +200,7 @@ body {
 
     justify-content:center;
 
-    align-items:center;
+    align-items:flex-start;
 
     cursor:pointer;
 
@@ -221,25 +238,25 @@ body {
 
     display:block;
 
-    font-size:22px;
+    font-size:26px;
 
     letter-spacing:-1px;
 
     font-style:italic;
 
-    color:#888888;
+    color:#ffffff;
 
     text-transform:lowercase;
 
     white-space:nowrap;
 
-    transform:rotate(90deg) scaleX(8);
+    transform:rotate(90deg) scaleX(9);
 
     pointer-events:none;
 
     padding-top: 50px;
 
-    padding-left: 15px;
+    padding-left: 70px;
 
 
 }
@@ -274,44 +291,52 @@ body {
 
 #title {
 
-    font-size:22px;
-    color:#d7d7d7;
-    
+  font-family: "Newsreader", serif;
+    font-size: 26px;
+    font-weight: 400;
 
-    margin-bottom:20px;
+    color: #23354d;
+
+    margin-bottom: 18px;
    
 }
 
 
 #narrative {
 
-    font-size:13px;
-    font-style:italic;
-    color:#ffffff;
-    letter-spacing: 3%;
+     font-family: "Newsreader", serif;
+    font-style: italic;
 
-    margin-bottom:40px;
+    font-size: 15px;
+    line-height: 1.6;
+
+    color: #4b5f78;
+
+    margin-bottom: 36px;
 
 }
 
 
 #text {
 
-    font-size:14px;
-    color:#bbbbbb;
-    white-space: pre-line;
+        font-family: "Inter", sans-serif;
 
-    line-height:1.5;
+    font-size: 14px;
+    line-height: 1.4;
+
+    color: #2e4664;
+
+    white-space: pre-line;
 
 }
 
-#credits{
+#credits {
 
-    font-size:11px;
-    color:#000000;
-    white-space: pre-line;
+    font-size: 11px;
 
-    margin-top:40px;
+    color: #5d7088;
+
+    margin-top: 40px;
 
 }
 

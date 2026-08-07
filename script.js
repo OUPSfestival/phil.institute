@@ -643,7 +643,7 @@ info.onclick = function(){
 
     right.style.display = "none";
 
-    cardImage.style.display = "none";
+    cardImage.style.display = "block";
 
     info.classList.remove("active");
 

@@ -359,13 +359,11 @@ text:`→ Observe where the card has landed.
 → Click on the card, read an interpretation.
 
 
-
-
-This project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.
-
+Context:
 Over the years, I have made objects that touched something in me. Explaining exactly what that is has always been difficult. They often appeared before I understood why they mattered.
-As a human being, I keep making meaning from the things I encounter and create. Over time, each object and each card has gathered its own stories, memories, and associations. This archive is my way of holding those connections together.
-I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.`,
+I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.
+
+This project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.`,
 credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">social media</a>`
 },
 

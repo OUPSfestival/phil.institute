@@ -303,7 +303,6 @@ body {
 #narrative {
 
     font-family: "Inter", sans-serif;
-    font-style: italic;
 
     font-size: 12px;
     line-height: 1;
@@ -318,8 +317,9 @@ body {
 #text {
 
     font-family: "Inter", sans-serif;
+    font-style: italic;
 
-    font-size: 13px;
+    font-size: 14px;
     line-height: 1.4;
 
     color: #ffffff;

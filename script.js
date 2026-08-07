@@ -3,7 +3,7 @@ const cards = [
 
 {
 image:"images/Card_01.png",
-title:"SUBJECT 01",
+title:"subject 01",
 narrative:"",
 text:"",   
 credits:""
@@ -12,7 +12,7 @@ credits:""
 
 {
 image:"images/Card_02.png",
-title:"SUBJECT 02",
+title:"subject 02",
 narrative:"",
 text:"",   
 credits:""
@@ -21,7 +21,7 @@ credits:""
 
 {
 image:"images/Card_03.png",
-title:"SUBJECT 03",
+title:"subject 03",
 narrative:"",
 text:"",   
 credits:""
@@ -30,7 +30,7 @@ credits:""
 
 {
 image:"images/Card_04.png",
-title:"SUBJECT 04",
+title:"subject 04",
 narrative:"",
 text:"",   
 credits:""
@@ -39,7 +39,7 @@ credits:""
 
 {
 image:"images/Card_05.png",
-title:"SUBJECT 05",
+title:"subject 05",
 narrative:"",
 text:"",   
 credits:""
@@ -48,7 +48,7 @@ credits:""
 
 {
 image:"images/Card_06.png",
-title:"SUBJECT 06",
+title:"subject 06",
 narrative:"",
 text:"",   
 credits:""
@@ -56,7 +56,7 @@ credits:""
 
 {
 image:"images/Card_07.png",
-title:"SUBJECT 07",
+title:"subject 07",
 narrative:"",
 text:"",   
 credits:""
@@ -65,7 +65,7 @@ credits:""
 
 {
 image:"images/Card_08.png",
-title:"SUBJECT 08",
+title:"subject 08",
 narrative:"",
 text:"",   
 credits:""
@@ -74,7 +74,7 @@ credits:""
 
 {
 image:"images/Card_09.png",
-title:"OBJECT 09",
+title:"subject 09",
 narrative:"",
 text:"",   
 credits:""
@@ -83,7 +83,7 @@ credits:""
 
 {
 image:"images/Card_10.png",
-title:"SUBJECT 10",
+title:"subject 10",
 narrative:"",
 text:"",   
 credits:""
@@ -92,7 +92,7 @@ credits:""
 
 {
 image:"images/Card_11.png",
-title:"SUBJECT 11",
+title:"subject 11",
 narrative:"",
 text:"",   
 credits:""
@@ -101,7 +101,7 @@ credits:""
 
 {
 image:"images/Card_12.png",
-title:"SUBJECT 12",
+title:"subject 12",
 narrative:"",
 text:"",   
 credits:""
@@ -110,7 +110,7 @@ credits:""
 
 {
 image:"images/Card_13.png",
-title:"SUBJECT 13",
+title:"subject 13",
 narrative:"",
 text:"",   
 credits:""
@@ -119,7 +119,7 @@ credits:""
 
 {
 image:"images/Card_14.png",
-title:"SUBJECT 14",
+title:"subject 14",
 narrative:"",
 text:"",   
 credits:""
@@ -128,7 +128,7 @@ credits:""
 
 {
 image:"images/Card_15.png",
-title:"SUBJECT 15",
+title:"subject 15",
 narrative:"",
 text:"",   
 credits:""
@@ -137,7 +137,7 @@ credits:""
 
 {
 image:"images/Card_16.png",
-title:"SUBJECT 16",
+title:"subject 16",
 narrative:"",
 text:"",   
 credits:""
@@ -146,7 +146,7 @@ credits:""
 
 {
 image:"images/Card_17.png",
-title:"SUBJECT 17",
+title:"subject 17",
 narrative:"",
 text:"",   
 credits:""
@@ -155,7 +155,7 @@ credits:""
 
 {
 image:"images/Card_18.png",
-title:"SUBJECT 18",
+title:"subject 18",
 narrative:"",
 text:"",   
 credits:""
@@ -164,7 +164,7 @@ credits:""
 
 {
 image:"images/Card_19.png",
-title:"SUBJECT 19",
+title:"subject 19",
 narrative:"",
 text:"",   
 credits:""
@@ -173,7 +173,7 @@ credits:""
 
 {
 image:"images/Card_20.png",
-title:"SUBJECT 20",
+title:"subject 20",
 narrative:"",
 text:"",   
 credits:""
@@ -182,7 +182,7 @@ credits:""
 
 {
 image:"images/Card_21.png",
-title:"SUBJECT 21",
+title:"subject 21",
 narrative:"",
 text:"",   
 credits:""
@@ -191,7 +191,7 @@ credits:""
 
 {
 image:"images/Card_22.png",
-title:"SUBJECT 22",
+title:"subject 22",
 narrative:"",
 text:"",   
 credits:""
@@ -200,7 +200,7 @@ credits:""
 
 {
 image:"images/Card_23.png",
-title:"SUBJECT 23",
+title:"subject 23",
 narrative:"The apparent fragility isn't weakness— it is sensitivity",
 text:`The subject believes they are hanging by a thread, but the thread is the source of their stability.
 What seems fragile is the very force that creates balance. There is no fall because there is no separation. The upper spiral carries consciousness; the lower spiral carries the unconscious. The bridge joins them, and the bell waits for the moment when silence becomes sound.`,   
@@ -211,7 +211,7 @@ credits:""
 
 {
 image:"images/Card_24.png",
-title:"SUBJECT 24",
+title:"subject 24",
 narrative:"The weak feeling isn't lack of power.",
 text:`The Queen has entered the stage where power no longer announces itself.
 She experiences emptiness because she is no longer attached to the old image of strength. Her sword has disappeared because it has moved from her hand into her essence. What looks like weakness is the quiet space before action.`,   
@@ -222,7 +222,7 @@ credits:""
 
 {
 image:"images/Card_25.png",
-title:"SUBJECT 25",
+title:"subject 25",
 narrative:"",
 text:"",   
 credits:""
@@ -231,7 +231,7 @@ credits:""
 
 {
 image:"images/Card_26.png",
-title:"SUBJECT 26",
+title:"subject 26",
 narrative:"",
 text:"",   
 credits:""
@@ -240,7 +240,7 @@ credits:""
 
 {
 image:"images/Card_27.png",
-title:"SUBJECT 27",
+title:"subject 27",
 narrative:"",
 text:"",   
 credits:""
@@ -249,7 +249,7 @@ credits:""
 
 {
 image:"images/Card_28.png",
-title:"SUBJECT 28",
+title:"subject 28",
 narrative:"",
 text:"",   
 credits:""
@@ -258,7 +258,7 @@ credits:""
 
 {
 image:"images/Card_29.png",
-title:"SUBJECT 29",
+title:"subject 29",
 narrative:"",
 text:"",   
 credits:""
@@ -267,7 +267,7 @@ credits:""
 
 {
 image:"images/Card_30.png",
-title:"SUBJECT 30",
+title:"subject 30",
 narrative:"I will fly anyway, whatever you will say.",
 text:`But you don't need wings to fly.
 
@@ -287,7 +287,7 @@ credits:""
 
 {
 image:"images/Card_31.png",
-title:"SUBJECT 31",
+title:"subject 31",
 narrative:"",
 text:"",   
 credits:""
@@ -296,7 +296,7 @@ credits:""
 
 {
 image:"images/Card_32.png",
-title:"SUBJECT 32",
+title:"subject 32",
 narrative:"",
 text:"",   
 credits:""
@@ -305,7 +305,7 @@ credits:""
 
 {
 image:"images/Card_33.png",
-title:"SUBJECT 33",
+title:"subject 33",
 narrative:"",
 text:"",   
 credits:""
@@ -314,7 +314,7 @@ credits:""
 
 {
 image:"images/Card_34.png",
-title:"SUBJECT 34",
+title:"subject 34",
 narrative:"",
 text:"",   
 credits:""
@@ -323,7 +323,7 @@ credits:""
 
 {
 image:"images/Card_35.png",
-title:"SUBJECT 35",
+title:"subject 35",
 narrative:"",
 text:"",   
 credits:""
@@ -332,7 +332,7 @@ credits:""
 
 {
 image:"images/Card_36.png",
-title:"SUBJECT 36",
+title:"subject 36",
 narrative:"",
 text:"",   
 credits:""

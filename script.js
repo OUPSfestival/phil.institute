@@ -366,7 +366,7 @@ Over the years, I have made objects that touched something in me. Explaining exa
 I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.
 
 This project inspired by the symbolic world of Tarot and the visual thinking of Aby Warburg.`,
-credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">social media</a>`
+credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">Social Med</a>`
 },
 
 ];

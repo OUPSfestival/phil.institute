@@ -3,7 +3,7 @@ const cards = [
 
 {
 image:"images/Card_01.png",
-title:"OBJECT 01",
+title:"SUBJECT 01",
 narrative:"",
 text:"",   
 credits:""
@@ -12,7 +12,7 @@ credits:""
 
 {
 image:"images/Card_02.png",
-title:"OBJECT 02",
+title:"SUBJECT 02",
 narrative:"",
 text:"",   
 credits:""
@@ -21,7 +21,7 @@ credits:""
 
 {
 image:"images/Card_03.png",
-title:"OBJECT 03",
+title:"SUBJECT 03",
 narrative:"",
 text:"",   
 credits:""
@@ -30,7 +30,7 @@ credits:""
 
 {
 image:"images/Card_04.png",
-title:"OBJECT 04",
+title:"SUBJECT 04",
 narrative:"",
 text:"",   
 credits:""
@@ -39,7 +39,7 @@ credits:""
 
 {
 image:"images/Card_05.png",
-title:"OBJECT 05",
+title:"SUBJECT 05",
 narrative:"",
 text:"",   
 credits:""
@@ -48,7 +48,7 @@ credits:""
 
 {
 image:"images/Card_06.png",
-title:"OBJECT 06",
+title:"SUBJECT 06",
 narrative:"",
 text:"",   
 credits:""
@@ -56,7 +56,7 @@ credits:""
 
 {
 image:"images/Card_07.png",
-title:"OBJECT 07",
+title:"SUBJECT 07",
 narrative:"",
 text:"",   
 credits:""
@@ -65,7 +65,7 @@ credits:""
 
 {
 image:"images/Card_08.png",
-title:"OBJECT 08",
+title:"SUBJECT 08",
 narrative:"",
 text:"",   
 credits:""
@@ -83,7 +83,7 @@ credits:""
 
 {
 image:"images/Card_10.png",
-title:"OBJECT 10",
+title:"SUBJECT 10",
 narrative:"",
 text:"",   
 credits:""
@@ -92,7 +92,7 @@ credits:""
 
 {
 image:"images/Card_11.png",
-title:"OBJECT 11",
+title:"SUBJECT 11",
 narrative:"",
 text:"",   
 credits:""
@@ -101,7 +101,7 @@ credits:""
 
 {
 image:"images/Card_12.png",
-title:"OBJECT 12",
+title:"SUBJECT 12",
 narrative:"",
 text:"",   
 credits:""
@@ -110,7 +110,7 @@ credits:""
 
 {
 image:"images/Card_13.png",
-title:"OBJECT 13",
+title:"SUBJECT 13",
 narrative:"",
 text:"",   
 credits:""
@@ -119,7 +119,7 @@ credits:""
 
 {
 image:"images/Card_14.png",
-title:"OBJECT 14",
+title:"SUBJECT 14",
 narrative:"",
 text:"",   
 credits:""
@@ -128,7 +128,7 @@ credits:""
 
 {
 image:"images/Card_15.png",
-title:"OBJECT 15",
+title:"SUBJECT 15",
 narrative:"",
 text:"",   
 credits:""
@@ -137,7 +137,7 @@ credits:""
 
 {
 image:"images/Card_16.png",
-title:"",
+title:"SUBJECT 16",
 narrative:"",
 text:"",   
 credits:""
@@ -146,7 +146,7 @@ credits:""
 
 {
 image:"images/Card_17.png",
-title:"OBJECT 17",
+title:"SUBJECT 17",
 narrative:"",
 text:"",   
 credits:""
@@ -155,7 +155,7 @@ credits:""
 
 {
 image:"images/Card_18.png",
-title:"OBJECT 18",
+title:"SUBJECT 18",
 narrative:"",
 text:"",   
 credits:""
@@ -164,7 +164,7 @@ credits:""
 
 {
 image:"images/Card_19.png",
-title:"",
+title:"SUBJECT 19",
 narrative:"",
 text:"",   
 credits:""
@@ -173,7 +173,7 @@ credits:""
 
 {
 image:"images/Card_20.png",
-title:"OBJECT 20",
+title:"SUBJECT 20",
 narrative:"",
 text:"",   
 credits:""
@@ -182,7 +182,7 @@ credits:""
 
 {
 image:"images/Card_21.png",
-title:"OBJECT 21",
+title:"SUBJECT 21",
 narrative:"",
 text:"",   
 credits:""
@@ -200,7 +200,7 @@ credits:""
 
 {
 image:"images/Card_29.png",
-title:"SuBJECT 29",
+title:"SUBJECT 29",
 narrative:"The apparent fragility isn't weakness— it is sensitivity",
 text:`The subject believes they are hanging by a thread, but the thread is the source of their stability.
 What seems fragile is the very force that creates balance. There is no fall because there is no separation. The upper spiral carries consciousness; the lower spiral carries the unconscious. The bridge joins them, and the bell waits for the moment when silence becomes sound.`,   
@@ -210,7 +210,7 @@ credits:""
 
 {
 image:"images/Card_30.png",
-title:"OBJECT 30",
+title:"SUBJECT 30",
 narrative:"I will fly anyway, whatever you will say.",
 text:`If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
 
@@ -232,7 +232,7 @@ credits:""
 
 {
 image:"images/Card_25.png",
-title:"OBJECT 25",
+title:"SUBJECT 25",
 narrative:"",
 text:"",   
 credits:""
@@ -241,7 +241,7 @@ credits:""
 
 {
 image:"images/Card_26.png",
-title:"OBJECT 26",
+title:"SUBJECT 26",
 narrative:"",
 text:"",   
 credits:""
@@ -250,7 +250,7 @@ credits:""
 
 {
 image:"images/Card_27.png",
-title:"",
+title:"SUBJECT 27",
 narrative:"",
 text:"",   
 credits:""
@@ -259,7 +259,7 @@ credits:""
 
 {
 image:"images/Card_28.png",
-title:"",
+title:"SUBJECT 28",
 narrative:"",
 text:"",   
 credits:""
@@ -268,7 +268,7 @@ credits:""
 
 {
 image:"images/Card_29.png",
-title:"OBJECT 29",
+title:"SUBJECT 29",
 narrative:"",
 text:"",   
 credits:""
@@ -277,7 +277,7 @@ credits:""
 
 {
 image:"images/Card_30.png",
-    title:"OBJECT 30",
+    title:"SUBJECT 30",
     narrative:"I will fly anyway, whatever you will say.",
     text:`
    If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
@@ -302,7 +302,7 @@ credits:""
 
 {
 image:"images/Card_31.png",
-title:"OBJECT 31",
+title:"SUBJECT 31",
 narrative:"",
 text:"",   
 credits:""
@@ -311,7 +311,7 @@ credits:""
 
 {
 image:"images/Card_32.png",
-title:"OBJECT 32",
+title:"SUBJECT 32",
 narrative:"",
 text:"",   
 credits:""
@@ -320,7 +320,7 @@ credits:""
 
 {
 image:"images/Card_33.png",
-title:"OBJECT 33",
+title:"SUBJECT 33",
 narrative:"",
 text:"",   
 credits:""
@@ -329,7 +329,7 @@ credits:""
 
 {
 image:"images/Card_34.png",
-title:"OBJECT 34",
+title:"SUBJECT 34",
 narrative:"",
 text:"",   
 credits:""
@@ -338,7 +338,7 @@ credits:""
 
 {
 image:"images/Card_35.png",
-title:"OBJECT 35",
+title:"SUBJECT 35",
 narrative:"",
 text:"",   
 credits:""
@@ -347,7 +347,7 @@ credits:""
 
 {
 image:"images/Card_36.png",
-title:"OBJECT 36",
+title:"SUBJECT 36",
 narrative:"",
 text:"",   
 credits:""

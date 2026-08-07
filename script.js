@@ -199,27 +199,33 @@ credits:""
 
 
 {
-image:"images/Card_23.png",
-title:"OBJECT 23",
-narrative:"",
-text:"",   
+image:"images/Card_29.png",
+title:"SuBJECT 29",
+narrative:"The apparent fragility isn't weakness— it is sensitivity",
+text:`The subject believes they are hanging by a thread, but the thread is the source of their stability.
+What seems fragile is the very force that creates balance. There is no fall because there is no separation. The upper spiral carries consciousness; the lower spiral carries the unconscious. The bridge joins them, and the bell waits for the moment when silence becomes sound.`,   
 credits:""
 },
 
 
 {
-image:"images/Card_24.png",
-title:"OBJECT 24",
-narrative:"The Power is here, even if you don't feel it",
-text:`What if you feel silenced and empty, without any power?
-This Queen is silenced, but not powerless. Her body isn't really visible, but her foundation is wide.
-She can reach many energizing sources.
-Her mind is sharp.
-She has a dangerous scorpion tail, it is better not to mess with her.
+image:"images/Card_30.png",
+title:"OBJECT 30",
+narrative:"I will fly anyway, whatever you will say.",
+text:`If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
 
-Nobody can see her sword because she isn't holding it. The sword has an invisible, flexible bond and can be reached at any time.
+But you don’t need wings to fly.
 
-The feeling of weakness isn't a lack of power.`,   
+You can fly in many different ways. Sometimes, when the pain takes over, it becomes difficult to see other possibilities. Our view becomes smaller, and we forget that there are still many directions we can go.
+
+That is why the angel is turned around. The angel is full of pain and sorrow, and it needs to turn around to gain new energy at the threshold of change.
+
+It is time to turn around and see what is behind you. It is time to open your view and notice what is still possible.
+
+You will fly.
+Wherever you want to fly.
+
+And please, don’t be afraid to cry.`,
 credits:""
 },
 
@@ -262,19 +268,19 @@ credits:""
 
 {
 image:"images/Card_29.png",
-title:"SuBJECT 29",
-narrative:"The apparent fragility isn't weakness— it is sensitivity",
-text:`The subject believes they are hanging by a thread, but the thread is the source of their stability.
-What seems fragile is the very force that creates balance. There is no fall because there is no separation. The upper spiral carries consciousness; the lower spiral carries the unconscious. The bridge joins them, and the bell waits for the moment when silence becomes sound.`,   
+title:"OBJECT 29",
+narrative:"",
+text:"",   
 credits:""
 },
 
 
 {
 image:"images/Card_30.png",
-title:"OBJECT 30",
-narrative:"I will fly anyway, whatever you will say.",
-text:`If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
+    title:"OBJECT 30",
+    narrative:"I will fly anyway, whatever you will say.",
+    text:`
+   If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
 
 But you don’t need wings to fly.
 
@@ -287,7 +293,9 @@ It is time to turn around and see what is behind you. It is time to open your vi
 You will fly.
 Wherever you want to fly.
 
-And please, don’t be afraid to cry.`,
+And please, don’t be afraid to cry.
+    `,
+    
 credits:""
 },
 
@@ -377,6 +385,7 @@ credits:`<a href="https://www.instagram.com/phil.institute" target="_blank">Soci
 
 
 let currentCard;
+let previousCard = null;
 
 let infoOpen = false;
 let archiveOpen = false;
@@ -426,6 +435,14 @@ const mobileArchiveGrid = document.getElementById("mobileArchiveGrid");
 
 // RANDOM FIRST CARD
 
+function updateDescription() {
+
+    title.innerHTML = currentCard.title || "";
+    narrative.innerHTML = currentCard.narrative || "";
+    text.innerHTML = currentCard.text || "";
+    credits.innerHTML = currentCard.credits || "";
+
+}
 
 function randomCard(){
 
@@ -462,17 +479,17 @@ function randomCard(){
 randomCard();
 cardImage.onclick = function(){
 
-    showArchiveLine();
+    if(right.style.display === "flex"){
 
+        right.style.display = "none";
+        hideArchiveLine();
 
-    title.innerHTML = currentCard.title || "";
-    narrative.innerHTML = currentCard.narrative || "";
-    text.innerHTML = currentCard.text || "";
-
-    if(currentCard.credits){
-        credits.innerHTML = currentCard.credits;
     } else {
-        credits.innerHTML = "";
+
+        right.style.display = "flex";
+        showArchiveLine();
+        updateDescription();
+
     }
 
 };
@@ -567,6 +584,9 @@ archiveCards.forEach((card, index)=>{
 
     archiveGrid.style.display = "none";
     singleCard.style.display = "flex";
+    
+    archiveOpen = false;
+    archiveLink.classList.remove("active");
 
     cardImage.style.display = "block";
 
@@ -599,29 +619,6 @@ archiveCards.forEach((card, index)=>{
   let descriptionOpen = false;
 
 
-cardImage.onclick = function () {
-
-    if (right.style.display === "flex") {
-
-        // hide text
-        right.style.display = "none";
-        hideArchiveLine();
-
-    } else {
-
-        // show text
-        right.style.display = "flex";
-        showArchiveLine();
-
-        title.innerHTML = currentCard.title || "";
-        narrative.innerHTML = currentCard.narrative || "";
-        text.innerHTML = currentCard.text || "";
-        credits.innerHTML = currentCard.credits || "";
-
-    }
-
-};
-
 };
 
 
@@ -645,20 +642,21 @@ info.style.opacity = "1";
 
 info.onclick = function(){
 
-    if(infoOpen){
+  if(infoOpen){
 
-        // close information
+    // close information
 
-        hideArchiveLine();
+    currentCard = previousCard;
 
+    hideArchiveLine();
 
-        right.style.display = "none";
+    right.style.display = "none";
 
-        cardImage.style.display = "block";
+    cardImage.style.display = "block";
 
-        info.classList.remove("active");
+    info.classList.remove("active");
 
-        infoOpen = false;
+    infoOpen = false;
 
 
     } else {
@@ -668,6 +666,7 @@ info.onclick = function(){
 
         showArchiveLine();
 
+        previousCard = currentCard;
         currentCard = cards.find(card => card.title === "phil.institute");
 
 
@@ -711,6 +710,7 @@ archiveLink.onclick = function(){
         // close archive
 
         archiveGrid.style.display = "none";
+        singleCard.style.display = "flex";
 
         archiveLink.classList.remove("active");
 

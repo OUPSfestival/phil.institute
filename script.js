@@ -350,9 +350,7 @@ credits:""
 {
 title:"phil.institute",
 narrative:"",
-
-text:`
-→ Observe where the card has landed.
+text:`→ Observe where the card has landed.
 
 → See which direction the card is looking.
 

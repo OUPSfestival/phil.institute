@@ -275,13 +275,11 @@ You can fly in many different ways. Sometimes, when the pain takes over, it beco
 
 That is why the angel is turned around. The angel is full of pain and sorrow, and it needs to turn around to gain new energy at the threshold of change.
 
-It is time to turn around and see what is behind you. It is time to open your view and notice what is still possible.
+It is time to see what is behind you. It is time to open your mind to see.
 
-You will fly.
-Wherever you want to fly.
-
-And please, don’t be afraid to cry.
-    `,
+You will fly,
+Wherever you want to fly,
+And cry.`,
     
 credits:""
 },

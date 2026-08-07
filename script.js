@@ -280,7 +280,6 @@ It is time to see what is behind you. It is time to open your mind to see.
 You will fly,
 Wherever you want to fly,
 And cry.`,
-    
 credits:""
 },
 

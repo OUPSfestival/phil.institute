@@ -262,19 +262,19 @@ credits:""
 
 {
 image:"images/Card_29.png",
-title:"OBJECT 29",
-narrative:"",
-text:"",   
+title:"SuBJECT 29",
+narrative:"The apparent fragility isn't weakness— it is sensitivity",
+text:`The subject believes they are hanging by a thread, but the thread is the source of their stability.
+What seems fragile is the very force that creates balance. There is no fall because there is no separation. The upper spiral carries consciousness; the lower spiral carries the unconscious. The bridge joins them, and the bell waits for the moment when silence becomes sound.`,   
 credits:""
 },
 
 
 {
 image:"images/Card_30.png",
-    title:"OBJECT 30",
-    narrative:"I will fly anyway, whatever you will say.",
-    text:`
-   If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
+title:"OBJECT 30",
+narrative:"I will fly anyway, whatever you will say.",
+text:`If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
 
 But you don’t need wings to fly.
 
@@ -287,9 +287,7 @@ It is time to turn around and see what is behind you. It is time to open your vi
 You will fly.
 Wherever you want to fly.
 
-And please, don’t be afraid to cry.
-    `,
-    
+And please, don’t be afraid to cry.`,
 credits:""
 },
 

@@ -207,7 +207,8 @@ What seems fragile is the very force that creates balance. There is no fall beca
 credits:""
 },
 
-    
+
+
 {
 image:"images/Card_24.png",
 title:"SUBJECT 24",
@@ -268,8 +269,7 @@ credits:""
 image:"images/Card_30.png",
     title:"SUBJECT 30",
     narrative:"I will fly anyway, whatever you will say.",
-    text:`
-   If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
+    text:`If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
 
 But you don’t need wings to fly.
 
@@ -341,6 +341,9 @@ narrative:"",
 text:"",   
 credits:""
 },
+
+
+
 
 
 
@@ -576,7 +579,7 @@ archiveCards.forEach((card, index)=>{
     archiveOpen = false;
     archiveLink.classList.remove("active");
 
-    cardImage.style.display = "block";
+    cardImage.style.display = "none";
 
     cardImage.src = card.image;
 
@@ -640,7 +643,7 @@ info.onclick = function(){
 
     right.style.display = "none";
 
-    cardImage.style.display = "block";
+    cardImage.style.display = "none";
 
     info.classList.remove("active");
 
@@ -801,40 +804,62 @@ mobileArchive.onclick = function(){
     mobileArchiveGrid.innerHTML="";
 
 
-    cards.forEach(card=>{
+    let mobileArchiveCards = [...cards];
 
-        let img=document.createElement("img");
+mobileArchiveCards.sort(() => Math.random() - 0.5);
 
-        img.src=card.image;
 
-        img.onclick=function(){
+mobileArchiveCards.forEach(card=>{
 
-            currentCard=card;
+    let img=document.createElement("img");
 
-            updateMobileCard(currentCard);
 
-            mobileArchiveGrid.style.display="none";
+    // same empty space system as desktop
 
-            mobileCard.style.display="block";
+    if(Math.random() < 0.3){
 
-        };
-
+        img.style.visibility="hidden";
 
         mobileArchiveGrid.appendChild(img);
 
-    });
+        return;
+
+    }
+
+
+    img.src=card.image;
+
+
+    img.onclick=function(){
+
+        currentCard=card;
+
+        updateMobileCard(currentCard);
+
+        mobileArchiveGrid.style.display="none";
+
+        mobileCard.style.display="block";
+
+    };
+
+
+    mobileArchiveGrid.appendChild(img);
+
+});
 
 };
 
 
 
-// about
+// info
 
 mobileAbout.onclick = function(){
 
     mobileMenu.classList.remove("open");
 
-    currentCard = cards.find(card => card.title === "ABOUT");
+    previousCard = currentCard;
+
+    currentCard = cards.find(card => card.title === "phil.institute");
 
     updateMobileCard(currentCard);
 

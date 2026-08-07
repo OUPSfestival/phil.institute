@@ -174,8 +174,14 @@ credits:""
 {
 image:"images/Card_20.png",
 title:"subject 20",
-narrative:"",
-text:"",   
+narrative:"You don't need to move, you will be moved.",
+text:`The blue fog surrounds you. You want to scream, to be heard, to break free, but your voice disappears into the endless water. Every push creates another push back. You are fighting the force while forgetting that you are already inside it.
+
+This card speaks of the moment when struggle becomes suffering. Some things cannot be repaired, some things must decay, and some endings are necessary. Holding on only keeps you trapped in what is already leaving.
+
+The blue fog asks you to surrender, not as defeat, but as trust. There is a hidden beauty in death and transformation. What falls away makes space for what wants to be born.
+
+Stop forcing yourself to move. The current already knows where to take you. When you let go, you discover that you were never drowning — you were being carried.`,   
 credits:""
 },
 
@@ -183,8 +189,10 @@ credits:""
 {
 image:"images/Card_21.png",
 title:"subject 21",
-narrative:"",
-text:"",   
+narrative:"oh you mythical creature.",
+text:`Walk with confidence. Walk proudly with this unusual, beautiful side of yourself. We want to see you move through the world freely. We want to be inspired by the courage it takes to be fully yourself.
+Your inner child is speaking to you. Your playful body is calling you back to wonder. Play with me. See the joy. Jump, even in a world ruled by gravity. The joy is real, the dream is real, and your unicorn exists. It lives within your imagination, nourishing you and opening your mind to infinite possibilities.
+Jump, sing, fly. Allow yourself to explore the strange and magical parts of who you are. This alien within you is not something to hide — it is a part of you waiting to be embraced.`,   
 credits:""
 },
 
@@ -192,8 +200,10 @@ credits:""
 {
 image:"images/Card_22.png",
 title:"subject 22",
-narrative:"",
-text:"",   
+narrative:"Tiger, cat, or dog? But where is the body?",
+text:`The creature represents your hidden nature and the unknown possibilities within you. If you accept what is emerging, you become the elegant cat: balanced, intuitive, and free. If you resist it, you become the wounded lion: powerful but defensive, causing harm through fear rather than strength.
+
+The true challenge is not what is being born. The true challenge is whether you can accept yourself enough to let it grow.`,   
 credits:""
 },
 
@@ -305,8 +315,13 @@ credits:""
 {
 image:"images/Card_33.png",
 title:"subject 33",
-narrative:"",
-text:"",   
+narrative:"The Sent of Melt a Card of Dissolution",
+text:`A figure stands at the edge of a volcano, but the volcano is inside their chest. Their head is slowly dissolving into mist while roots grow from their belly into the earth. Their skin is not a boundary anymore; it is a membrane. Around them, two bodies touch and lose their outlines, becoming a third form: not one, not two, but a new creature born from contact.
+
+A figure stands in the middle of an explosion, but the explosion is inside their soul. Their heart is pulled backward by invisible threads while their body is stretched toward an unknown horizon. Their memories melt into the wind, their desires burn like sparks in the dark. Between the force that calls them home and the force that pulls them away, a field of energy is born — a storm of contradiction where every ending carries the seed of a beginning.
+
+A figure enters a field of living electricity, where every touch releases waves through the body. Their skin becomes a membrane between worlds, their breath mixes with another breath, their energy flows beyond their own shape. Two bodies dissolve into each other like colors in water, not disappearing but transforming. In the space where they meet, a new creature emerges — born from heat, sensation, and the mystery of becoming something other.
+`,   
 credits:""
 },
 

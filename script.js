@@ -357,7 +357,7 @@ credits:""
 
 {
 title:"phil.institute",
-narrative:"This website is the digital version of the cards found across Brussels.",
+narrative:"Digital version of the hidden cards of Brussels.",
 text:`→ Observe where the card has landed.
 
 → See which direction the card is looking.

@@ -359,7 +359,9 @@ text:`→ Observe where the card has landed.
 → Click on the card, read an interpretation.
 
 
+
 Context:
+
 Over the years, I have made objects that touched something in me. Explaining exactly what that is has always been difficult. They often appeared before I understood why they mattered.
 I don't see these objects as fixed symbols or answers. Instead, I invite you to explore them, follow your own associations, and let them speak to you in your own way.
 

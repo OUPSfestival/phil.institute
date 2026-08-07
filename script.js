@@ -579,7 +579,7 @@ archiveCards.forEach((card, index)=>{
     archiveOpen = false;
     archiveLink.classList.remove("active");
 
-    cardImage.style.display = "none";
+    cardImage.style.display = "block";
 
     cardImage.src = card.image;
 

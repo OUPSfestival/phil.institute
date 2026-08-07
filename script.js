@@ -199,35 +199,24 @@ credits:""
 
 
 {
-image:"images/Card_29.png",
-title:"SUBJECT 29",
+image:"images/Card_23.png",
+title:"SUBJECT 23",
 narrative:"The apparent fragility isn't weakness— it is sensitivity",
 text:`The subject believes they are hanging by a thread, but the thread is the source of their stability.
 What seems fragile is the very force that creates balance. There is no fall because there is no separation. The upper spiral carries consciousness; the lower spiral carries the unconscious. The bridge joins them, and the bell waits for the moment when silence becomes sound.`,   
 credits:""
 },
 
-
+    
 {
-image:"images/Card_30.png",
-title:"SUBJECT 30",
-narrative:"I will fly anyway, whatever you will say.",
-text:`If you have found or chosen this object, it might be that you have experienced some difficulties recently, it felt like it was hard to recover from them, like something inside you was broken and it was difficult to move forward.
-
-But you don’t need wings to fly.
-
-You can fly in many different ways. Sometimes, when the pain takes over, it becomes difficult to see other possibilities. Our view becomes smaller, and we forget that there are still many directions we can go.
-
-That is why the angel is turned around. The angel is full of pain and sorrow, and it needs to turn around to gain new energy at the threshold of change.
-
-It is time to turn around and see what is behind you. It is time to open your view and notice what is still possible.
-
-You will fly.
-Wherever you want to fly.
-
-And please, don’t be afraid to cry.`,
+image:"images/Card_24.png",
+title:"SUBJECT 24",
+narrative:"The weak feeling isn't lack of power.",
+text:`The Queen has entered the stage where power no longer announces itself.
+She experiences emptiness because she is no longer attached to the old image of strength. Her sword has disappeared because it has moved from her hand into her essence. What looks like weakness is the quiet space before action.`,   
 credits:""
 },
+
 
 
 {

@@ -269,7 +269,7 @@ credits:""
 image:"images/Card_30.png",
 title:"SUBJECT 30",
 narrative:"I will fly anyway, whatever you will say.",
-text:`But you don’t need wings to fly.
+text:`But you don't need wings to fly.
 
 You can fly in many different ways. Sometimes, when the pain takes over, it becomes difficult to see other possibilities. Our view becomes smaller, and we forget that there are still many directions we can go.
 

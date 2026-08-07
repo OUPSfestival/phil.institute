@@ -290,12 +290,12 @@ body {
 #title {
 
   font-family: "Newsreader", serif;
-    font-size: 26px;
+    font-size: 33px;
     font-weight: 400;
 
     color: #ffffff;
 
-    margin-bottom: 0px;
+    margin-bottom: 2px;
    
 }
 
@@ -304,12 +304,12 @@ body {
 
     font-family: "Inter", sans-serif;
 
-    font-size: 12px;
-    line-height: 1;
+    font-size: 14px;
+    line-height: 1.2;
 
     color: #ffffff;
 
-    margin-bottom: 17px;
+    margin-bottom: 30px;
 
 }
 
@@ -681,6 +681,8 @@ body {
         font-size:10px;
 
         color:#5a5151;
+
+        margin-bottom:50px;
 
     }
 

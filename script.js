@@ -359,7 +359,7 @@ credits:""
 
 {
 title:"phil.institute",
-narrative:"Digital version of the hidden cards of Brussels.",
+narrative:"Digital version of the hidden cards of Brussels, Marseille and Rotterdam.",
 text:`→ Observe where the card has landed.
 
 → See which direction the card is looking.

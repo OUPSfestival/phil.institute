@@ -5,7 +5,7 @@ const cards = [
 image:"images/Card_01.png",
 title:"subject 01",
 narrative:"",
-text:"",   
+text:"Holding on, together with memory, builds a vessel. To hold something or someone gives shape to experience; it creates care, continuity, a place where something can remain. The walls are necessary. Without them, the vase cannot hold the flowers. Without them, the cut flower cannot stay alive in water. But the same walls that make holding possible also make separation possible. They protect, but they divide. And when I hold for too long, the vessel can begin to fill with pain until I can no longer see where the pain is coming from. I only know that I am carrying it. Perhaps memory is not what remains inside the vessel, but what slowly builds its walls. What I remember becomes the shape of what I can still hold—and the shape of what I cannot let go.",   
 credits:""
 },
 
@@ -14,7 +14,7 @@ credits:""
 image:"images/Card_02.png",
 title:"subject 02",
 narrative:"",
-text:"",   
+text:"There is no clean separation here between eater and eaten. The body becomes food, not metaphorically but physically: flesh broken apart, consumed by different mouths, carried away in different directions. There is pleasure in imagining this dissolution, in seeing the body lose its unity and become nourishment for many other bodies. But the image turns back on itself at the table. Eating an animal is not the opposite of being eaten; it is the same exchange seen from the other side. The cooked fish, the lamb, the vegetables—all of it is already death transformed into pleasure, warmth, and life inside another body. To eat is to participate in death. To be eaten is to participate in life. The disturbing truth is that both acts feel right.",   
 credits:""
 },
 
@@ -23,7 +23,7 @@ credits:""
 image:"images/Card_03.png",
 title:"subject 03",
 narrative:"",
-text:"",   
+text:" From the moon, a fetus calls. It is not yet born, but already announcing its existence. It grows from the crater of your emotions, from the place where something has struck you and left an emptiness. The crater becomes a womb. The shell seems hard, permanent, protective. But even the hardest shell contains a secret: under the right conditions, it melts. Nothing needs to be broken by force. Transformation waits for the right temperature. We want the pearl. We want the finished form, the beautiful object hidden inside. But the pearl is almost a distraction. Its beauty is not only in what is found at the center. It is in the layers—the accumulated wounds, time, emotion, protection, and change. Perhaps we are meant to become the layers.",   
 credits:""
 },
 
@@ -32,7 +32,7 @@ credits:""
 image:"images/Card_04.png",
 title:"subject 04",
 narrative:"",
-text:"",   
+text:"A container needs stability. It has to stand, to remain what it is. Without that stability, it falls, and in falling it seems to lose its identity. Yet here the container does not stand on a broad, secure bottom. It stands on a point, almost impossibly, as if the thing that should make it fall is the very thing holding it up. The point disappears into the cube. The cube seems solid enough to carry everything, but only from one side. From there, it can be trusted. From the unseen side, nothing is certain. Perhaps it is connected to the container. Perhaps there is only the appearance of a connection, and the container is balancing over an emptiness that cannot be seen. At first, the cube feels safer than the container, then the opposite begins to happen: the container becomes the fragile one, while the cube becomes the uncertain one. But the two cannot finally be separated. The container’s stability depends on what cannot be fully seen. What looked like the container standing on the cube was also the cube being held by the container.",   
 credits:""
 },
 
@@ -41,7 +41,7 @@ credits:""
 image:"images/Card_05.png",
 title:"subject 05",
 narrative:"",
-text:"",   
+text:"The needle is a small act of violence. It enters the body, tearing it apart, but through this wound it creates a new connection. It does not destroy their structure it restructures the fabric to become something they were not before. The hole is therefore not an absence, but a possibility. Without the hole, the needle cannot pass. Without the wound, there can be no stitching, no new species. The needle carries a tail, a trace of where it has been. By leading one material into another, it makes the unseen visible. It reveals a form that could not exist without being torn open. Perhaps transformation is not becoming something new, but having the courage to assemble what already exists in us differently. The wound becomes a doorway.",   
 credits:""
 },
 
@@ -50,7 +50,7 @@ credits:""
 image:"images/Card_06.png",
 title:"subject 06",
 narrative:"",
-text:"",   
+text:"The four holes stand one above another, like openings into something hidden behind the surface. I want to pass through one of them, not simply to see what is behind it, but to leave this world and enter another. Four feels stable: four corners, four points holding something in place. But perhaps stability is only the arrangement of things before they fall. The holes are aligned so perfectly that they seem to promise order, yet they are also a path downward. The more I look, the more stability and falling become the same movement. And around the black hole there is a shine—not light escaping from it, but a brightness produced by the darkness itself. The hole does not simply swallow what is around it. It makes everything around it visible.",   
 credits:""
 },
 
@@ -67,7 +67,7 @@ credits:""
 image:"images/Card_08.png",
 title:"subject 08",
 narrative:"",
-text:"",   
+text:"The mountain goat represents the part of us that is instinctive, persistent, and capable of climbing toward places the conscious mind cannot reach. Walking across the moon bridge, it enters the territory of dreams, intuition, and the unconscious. The mountain is surrounded by bells, each one calling us toward the Night of Truth—a moment when the hidden parts of ourselves begin to speak. The bridge becomes a passage toward the shadow side, the part of ourselves we normally cannot see or refuse to acknowledge. The journey is therefore not about escaping darkness, but crossing into it, listening to it, and discovering what has been waiting there.",   
 credits:""
 },
 
@@ -76,7 +76,7 @@ credits:""
 image:"images/Card_09.png",
 title:"subject 09",
 narrative:"",
-text:"",   
+text:"At first, the figure seems to be trapped by the negative sun, held at a distance by a string that should allow escape but instead becomes a leash. Its wings promise movement, yet they cannot carry it. Even its beauty seems useless. But slowly, the image begins to turn. Perhaps the problem is not that the figure cannot fly, but that it is still trying to escape in the language of flight. The wings, the flame, the flowers, even the sun belong to the same closed system. There is no outside. The only opening appears when the figure stops trying to leave and begins to melt. What first looked like destruction becomes the first possibility of freedom.",   
 credits:""
 },
 

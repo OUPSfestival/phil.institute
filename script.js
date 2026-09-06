@@ -58,7 +58,7 @@ credits:""
 image:"images/Card_07.png",
 title:"subject 07",
 narrative:"",
-text:"",   
+text:"Rising or setting? The circle is centered, but grey. If you might feel lost, you are not. Who Is looking at you? Are you hard withyourself? Three dots going inside and four dots pushing out. Together, we summarize the number 7 — a number that, at its core, is very special and contradictory. Four can tend towards stagnation but also means stability. In this case, you need stability in your heart, trust yourself! Contrary you might need to break some patterns that are holding you back from moving forward. You will not achieve this by closing yourself off and going inwards; you will find it in the company of other people. Go out. Trust your gut. You are on a good track! Lose yourself, in your heart your stable. You have everything you need.",   
 credits:""
 },
 

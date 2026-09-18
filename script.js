@@ -118,15 +118,6 @@ credits:""
 
 
 {
-image:"images/Card_14.png",
-title:"subject 14",
-narrative:"",
-text:"",   
-credits:""
-},
-
-
-{
 image:"images/Card_15.png",
 title:"subject 15",
 narrative:"",
@@ -153,13 +144,6 @@ credits:""
 },
 
 
-{
-image:"images/Card_18.png",
-title:"subject 18",
-narrative:"",
-text:"",   
-credits:""
-},
 
 
 {
